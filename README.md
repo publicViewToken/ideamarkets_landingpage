@@ -1,11 +1,11 @@
 to start
-#download files
+download files
 install modules......
 
-#npm install
+npm install
 then use 
 npm run to run server
-#website should pop up
+website should pop up
 
 
 
