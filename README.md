@@ -1,3 +1,8 @@
+discord user teslabeam#3168
+gitcoin user public view 
+twitter @publicviewtoken
+
+
 youtube video
 https://www.youtube.com/watch?v=_7AvAWBOEC8
 
